@@ -1,0 +1,91 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "autor": "Juan Rulfo",
+			"photoURL": null,
+      "livros": [
+        {
+          "id": 1,
+          "title": "Chão em chamas",
+          "info": [
+            {
+              "id": 1,
+              "paginas": 200,
+              "editora": "Suma das Letras",
+              "generos": [
+                "drama"
+              ]
+            }
+          ]
+				},
+				{
+          "id": 1,
+          "title": "Pedro Páramo",
+          "info": [
+            {
+              "id": 2,
+              "paginas": 100,
+              "editora": "Suma das Letras",
+              "generos": [
+                "drama"
+              ]
+            }
+          ]
+        }
+      ]
+		},
+		{
+      "id": 2,
+      "autor": "Stephen king",
+			"photoURL": null,
+      "livros": [
+        {
+          "id": 1,
+          "title": "O Iluminado",
+          "info": [
+            {
+              "id": 1,
+              "paginas": 500,
+              "editora": "Suma das Letras",
+              "generos": [
+                "terror"
+              ]
+            }
+          ]
+				},
+				{
+          "id": 2,
+          "title": "Zona Morta",
+          "info": [
+            {
+              "id": 2,
+              "paginas": 600,
+              "editora": "Suma das Letras",
+              "generos": [
+                "suspense"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "autores": [
+    {
+      "id": 1,
+      "name": "Juan Rulfo",
+      "photoURL": null
+    },
+    {
+      "id": 2,
+      "name": "Stephen King",
+      "photoURL": null
+    }
+  ],
+  "generos": [
+    "drama",
+    "suspense",
+    "terror"
+  ]
+}
