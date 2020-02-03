@@ -15,3 +15,5 @@ Acesse em http://localhost:3000
 Dá pra setar outra porta no comando: 
 
 <code>json-server db.json --port 2000</code>
+
+Pra tirar snapshot do banco, aperte: **s** + **enter**
